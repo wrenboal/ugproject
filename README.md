@@ -1,5 +1,5 @@
 # Classification of Tempering Quality of Chocolate Using Artificial Neural Network and Near-infrared Spectroscopy
-An undergraduate food science final-year project, using Artificial Neural Network (ANN) and Near-infrared spectral data to classify 3 samples of chocolate according to their tempering quality
+A final-year undergraduate food science project, using Artificial Neural Network (ANN) and Near-infrared spectral data to classify 3 samples of chocolate according to their tempering quality
 
 ## Overview
 In this project, 3 chocolate samples were prepared, at 3 distinct tempering conditions. Near-infrared spectral data (125 wavelengths/variables) were collected at several points on each chocolate, on the day of sample preparation and during storage. Each measurement was treated as a single observation. The spectral data were pre-processed, Principal Component Analysis (PCA) was performed for exploratory data analysis and a simple ANN classification model was built to classify each observation according to the tempering condition of the sample it was from.
